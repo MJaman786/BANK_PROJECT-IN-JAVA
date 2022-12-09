@@ -1,0 +1,86 @@
+================================output========================================
+
+Enter your choice: 
+1.Create account
+2.Deposit money
+3.Withdraw money
+4.Transfer money
+5.Display account info
+6.Exit
+1
+================================
+Enter your name: AMAN
+Enter your age: 23
+Enter your aadhar card: 123456
+Enter your pan number: 123456
+Your account number is: 60790782
+================================
+Enter your choice: 
+1.Create account
+2.Deposit money
+3.Withdraw money
+4.Transfer money
+5.Display account info
+6.Exit
+2
+Enter Account number you want to deposit:40000
+================================
+================================
+Enter your choice: 
+1.Create account
+2.Deposit money
+3.Withdraw money
+4.Transfer money
+5.Display account info
+6.Exit
+1
+================================
+Enter your name: Narendra
+Enter your age: 29
+Enter your aadhar card: 123678
+Enter your pan number: 123456
+Your account number is: 00696650
+================================
+Enter your choice: 
+1.Create account
+2.Deposit money
+3.Withdraw money
+4.Transfer money
+5.Display account info
+6.Exit
+4
+================================
+Enter your Account number :60790782
+Enter Ammount to send: 20000
+Enter Account number you want to transfer: 
+00696650
+================================
+Do you want recipt of transfer (y/n) ?
+y
+Money is been transfer from this ''60790782''
+To this account ''00696650'' Successfully
+Sat Dec 10 00:33:31 IST 2022
+================================
+Enter your choice: 
+1.Create account
+2.Deposit money
+3.Withdraw money
+4.Transfer money
+5.Display account info
+6.Exit
+5
+================================
+Enter your account number: 00696650
+Account found!
+Account holder's name: Narendra
+pan number: 123456
+aadhar: 123678
+Avail. Balance: 20000.0
+================================
+Enter your choice: 
+1.Create account
+2.Deposit money
+3.Withdraw money
+4.Transfer money
+5.Display account info
+6.Exit
